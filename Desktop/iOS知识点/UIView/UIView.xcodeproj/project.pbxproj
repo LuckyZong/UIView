@@ -13,6 +13,8 @@
 		DA91F78F2058BCA600EFF6B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA91F78E2058BCA600EFF6B2 /* Assets.xcassets */; };
 		DA91F7922058BCA600EFF6B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA91F7902058BCA600EFF6B2 /* LaunchScreen.storyboard */; };
 		DA91F7952058BCA600EFF6B2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DA91F7942058BCA600EFF6B2 /* main.m */; };
+		DA91F79C2058C7D500EFF6B2 /* 111.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA91F79B2058C7D400EFF6B2 /* 111.jpg */; };
+		DA91F79E2058C81A00EFF6B2 /* 112.png in Resources */ = {isa = PBXBuildFile; fileRef = DA91F79D2058C81A00EFF6B2 /* 112.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		DA91F7912058BCA600EFF6B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DA91F7932058BCA600EFF6B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DA91F7942058BCA600EFF6B2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DA91F79B2058C7D400EFF6B2 /* 111.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 111.jpg; sourceTree = "<group>"; };
+		DA91F79D2058C81A00EFF6B2 /* 112.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 112.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 		DA91F7842058BCA600EFF6B2 /* UIView */ = {
 			isa = PBXGroup;
 			children = (
+				DA91F79D2058C81A00EFF6B2 /* 112.png */,
+				DA91F79B2058C7D400EFF6B2 /* 111.jpg */,
 				DA91F7852058BCA600EFF6B2 /* AppDelegate.h */,
 				DA91F7862058BCA600EFF6B2 /* AppDelegate.m */,
 				DA91F7882058BCA600EFF6B2 /* ViewController.h */,
@@ -130,6 +136,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				DA91F7922058BCA600EFF6B2 /* LaunchScreen.storyboard in Resources */,
+				DA91F79C2058C7D500EFF6B2 /* 111.jpg in Resources */,
+				DA91F79E2058C81A00EFF6B2 /* 112.png in Resources */,
 				DA91F78F2058BCA600EFF6B2 /* Assets.xcassets in Resources */,
 				DA91F78D2058BCA600EFF6B2 /* Main.storyboard in Resources */,
 			);
